@@ -16,4 +16,4 @@ This project involves conducting **Exploratory Data Analysis (EDA)** and buildin
 - **Scikit-learn**: Machine learning (Linear Regression, Ridge Regression, Cross-Validation)
 - **Jupyter Notebook**
 
-Dataset link: https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield
+Dataset Link: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
