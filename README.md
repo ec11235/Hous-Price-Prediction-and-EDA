@@ -15,3 +15,5 @@ This project involves conducting **Exploratory Data Analysis (EDA)** and buildin
 - **Matplotlib/Seaborn**: Data visualization
 - **Scikit-learn**: Machine learning (Linear Regression, Ridge Regression, Cross-Validation)
 - **Jupyter Notebook**
+
+Dataset link: https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield
